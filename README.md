@@ -4,7 +4,7 @@ Submitted by: **Rashydia Blair**
 
 **Codepath Prework Introduction** is an app that... introduces how to change the background colors of an application.
 
-Time spent: ** 0.5 ** hours spent in total
+Time spent: ** 1.0 ** hours spent in total
 
 ## Required Features
 
